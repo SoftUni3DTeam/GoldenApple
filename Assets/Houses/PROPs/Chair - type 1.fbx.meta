@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 3a966c0a0cbd54a4f82d6edf6bf4d312
+timeCreated: 1480866201
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: durvena_ograda
+    100004: goliama_masa__stolove_i_peiki
+    100006: masa
+    100008: pCube18
+    100010: pCube5
+    100012: peika_bez_oblegalka
+    100014: peika_s_oblegalka
+    100016: sofra_i_stolcheta
+    100018: stol_bez_oblegalka
+    100020: stol_s_oblegalka
+    100022: Wooden_Chair
+    100024: Wooden_Chair1
+    100026: Wooden_Chair2
+    100028: Wooden_Chair3
+    100030: Wooden_Chair4
+    100032: Wooden_Table
+    400000: //RootNode
+    400002: durvena_ograda
+    400004: goliama_masa__stolove_i_peiki
+    400006: masa
+    400008: pCube18
+    400010: pCube5
+    400012: peika_bez_oblegalka
+    400014: peika_s_oblegalka
+    400016: sofra_i_stolcheta
+    400018: stol_bez_oblegalka
+    400020: stol_s_oblegalka
+    400022: Wooden_Chair
+    400024: Wooden_Chair1
+    400026: Wooden_Chair2
+    400028: Wooden_Chair3
+    400030: Wooden_Chair4
+    400032: Wooden_Table
+    2300000: masa
+    2300002: pCube18
+    2300004: pCube5
+    2300006: peika_bez_oblegalka
+    2300008: peika_s_oblegalka
+    2300010: stol_bez_oblegalka
+    2300012: stol_s_oblegalka
+    2300014: Wooden_Chair
+    2300016: Wooden_Chair1
+    2300018: Wooden_Chair2
+    2300020: Wooden_Chair3
+    2300022: Wooden_Chair4
+    2300024: Wooden_Table
+    3300000: masa
+    3300002: pCube18
+    3300004: pCube5
+    3300006: peika_bez_oblegalka
+    3300008: peika_s_oblegalka
+    3300010: stol_bez_oblegalka
+    3300012: stol_s_oblegalka
+    3300014: Wooden_Chair
+    3300016: Wooden_Chair1
+    3300018: Wooden_Chair2
+    3300020: Wooden_Chair3
+    3300022: Wooden_Chair4
+    3300024: Wooden_Table
+    4300000: pCube18
+    4300002: pCube5
+    4300004: masa
+    4300006: peika_bez_oblegalka
+    4300008: stol_bez_oblegalka
+    4300010: peika_s_oblegalka
+    4300012: stol_s_oblegalka
+    4300014: Wooden_Table
+    4300016: Wooden_Chair
+    4300018: Wooden_Chair2
+    4300020: Wooden_Chair3
+    4300022: Wooden_Chair4
+    4300024: Wooden_Chair1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
